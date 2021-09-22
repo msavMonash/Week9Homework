@@ -332,7 +332,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Dendrogyra cylindrus,Anthozoa,Scleractinia,Meandriniidae,Dendrogyra,Spain,Dominican Republic,specimens,Scientific,Wild
 2016,II,Dichocoenia stokesii,Anthozoa,Scleractinia,Meandriniidae,Dichocoenia,Spain,Dominican Republic,specimens,Scientific,Wild
 2016,II,Meandrina maeandrites,Anthozoa,Scleractinia,Meandriniidae,Meandrina,Spain,Dominican Republic,specimens,Scientific,Wild
-2016,II,Meandrina maeandrites,Anthozoa,Scleractinia,Meandriniidae,Meandrina,United States of America,CW,raw corals,Scientific,Wild
+2016,II,Meandrina maeandrites,Anthozoa,Scleractinia,Meandriniidae,Meandrina,United States of America,Curaçao,raw corals,Scientific,Wild
 2016,II,Hydnophora spp.,Anthozoa,Scleractinia,Merulinidae,Hydnophora,United Arab Emirates,Indonesia,live,Commercial,Born in captivity
 2016,II,Hydnophora spp.,Anthozoa,Scleractinia,Merulinidae,Hydnophora,Argentina,Indonesia,raw corals,Commercial,Born in captivity
 2016,II,Hydnophora spp.,Anthozoa,Scleractinia,Merulinidae,Hydnophora,Argentina,Indonesia,live,Commercial,Born in captivity
@@ -709,7 +709,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Millepora spp.,Hydrozoa,Milleporina,Milleporidae,Millepora,South Africa,Indonesia,live,Commercial,Wild
 2016,II,Millepora alcicornis,Hydrozoa,Milleporina,Milleporidae,Millepora,Malaysia,Tonga,raw corals,Commercial,Bred in captivity
 2016,II,Millepora alcicornis,Hydrozoa,Milleporina,Milleporidae,Millepora,Unknown,Saint Helena and Dependencies,live,Scientific,Wild
-2016,II,Millepora complanata,Hydrozoa,Milleporina,Milleporidae,Millepora,United States of America,CW,raw corals,Scientific,Wild
+2016,II,Millepora complanata,Hydrozoa,Milleporina,Milleporidae,Millepora,United States of America,Curaçao,raw corals,Scientific,Wild
 2016,II,Millepora platyphylla,Hydrozoa,Milleporina,Milleporidae,Millepora,France,France,raw corals,Scientific,Wild
 2016,II,Millepora platyphylla,Hydrozoa,Milleporina,Milleporidae,Millepora,France,Panama,raw corals,Scientific,Wild
 2016,II,Millepora platyphylla,Hydrozoa,Milleporina,Milleporidae,Millepora,Monaco,France,raw corals,Scientific,Wild
@@ -1660,7 +1660,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Micromussa spp.,Anthozoa,Scleractinia,Mussidae,Micromussa,United States of America,Australia,live,Commercial,Wild
 2016,II,Mussismilia braziliensis,Anthozoa,Scleractinia,Mussidae,Mussismilia,Brazil,United States of America,specimens,Scientific,Wild
 2016,II,Mycetophyllia aliciae,Anthozoa,Scleractinia,Mussidae,Mycetophyllia,Spain,Dominican Republic,specimens,Scientific,Wild
-2016,II,Mycetophyllia aliciae,Anthozoa,Scleractinia,Mussidae,Mycetophyllia,United States of America,CW,raw corals,Scientific,Wild
+2016,II,Mycetophyllia aliciae,Anthozoa,Scleractinia,Mussidae,Mycetophyllia,United States of America,Curaçao,raw corals,Scientific,Wild
 2016,II,Scolymia spp.,Anthozoa,Scleractinia,Mussidae,Scolymia,United Arab Emirates,Tonga,raw corals,Commercial,Wild
 2016,II,Scolymia spp.,Anthozoa,Scleractinia,Mussidae,Scolymia,Argentina,Australia,raw corals,Commercial,Wild
 2016,II,Scolymia spp.,Anthozoa,Scleractinia,Mussidae,Scolymia,Bangladesh,Singapore,live,Commercial,Wild
@@ -1744,7 +1744,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Scolymia australis,Anthozoa,Scleractinia,Mussidae,Scolymia,United States of America,Indonesia,live,Commercial,Wild
 2016,II,Scolymia australis,Anthozoa,Scleractinia,Mussidae,Scolymia,United States of America,Tonga,live,Commercial,Wild
 2016,II,Scolymia australis,Anthozoa,Scleractinia,Mussidae,Scolymia,South Africa,United Arab Emirates,live,Commercial,Wild
-2016,II,Scolymia cubensis,Anthozoa,Scleractinia,Mussidae,Scolymia,United States of America,CW,raw corals,Scientific,Wild
+2016,II,Scolymia cubensis,Anthozoa,Scleractinia,Mussidae,Scolymia,United States of America,Curaçao,raw corals,Scientific,Wild
 2016,II,Scolymia lacera,Anthozoa,Scleractinia,Mussidae,Scolymia,Hong Kong,United States of America,live,Commercial,Wild
 2016,II,Scolymia vitiensis,Anthozoa,Scleractinia,Mussidae,Scolymia,Austria,Indonesia,live,Commercial,Wild
 2016,II,Scolymia vitiensis,Anthozoa,Scleractinia,Mussidae,Scolymia,Brazil,Indonesia,live,Commercial,Wild
@@ -3181,9 +3181,9 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Madracis spp.,Anthozoa,Scleractinia,Pocilloporidae,Madracis,Brazil,Saint Helena and Dependencies,live,Scientific,Wild
 2016,II,Madracis asanoi,Anthozoa,Scleractinia,Pocilloporidae,Madracis,United States of America,Philippines,live,Zoo,Wild
 2016,II,Madracis decactis,Anthozoa,Scleractinia,Pocilloporidae,Madracis,United States of America,Bermuda,specimens,Scientific,Wild
-2016,II,Madracis decactis,Anthozoa,Scleractinia,Pocilloporidae,Madracis,United States of America,CW,raw corals,Scientific,Wild
-2016,II,Madracis myriaster,Anthozoa,Scleractinia,Pocilloporidae,Madracis,United States of America,CW,raw corals,Scientific,Wild
-2016,II,Madracis pharensis,Anthozoa,Scleractinia,Pocilloporidae,Madracis,United States of America,CW,raw corals,Scientific,Wild
+2016,II,Madracis decactis,Anthozoa,Scleractinia,Pocilloporidae,Madracis,United States of America,Curaçao,raw corals,Scientific,Wild
+2016,II,Madracis myriaster,Anthozoa,Scleractinia,Pocilloporidae,Madracis,United States of America,Curaçao,raw corals,Scientific,Wild
+2016,II,Madracis pharensis,Anthozoa,Scleractinia,Pocilloporidae,Madracis,United States of America,Curaçao,raw corals,Scientific,Wild
 2016,II,Pocillopora spp.,Anthozoa,Scleractinia,Pocilloporidae,Pocillopora,United Arab Emirates,Fiji,raw corals,Commercial,Wild
 2016,II,Pocillopora spp.,Anthozoa,Scleractinia,Pocilloporidae,Pocillopora,United Arab Emirates,Indonesia,live,Commercial,Born in captivity
 2016,II,Pocillopora spp.,Anthozoa,Scleractinia,Pocilloporidae,Pocillopora,United Arab Emirates,Tonga,raw corals,Commercial,Wild
@@ -3431,7 +3431,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Seriatopora hystrix,Anthozoa,Scleractinia,Pocilloporidae,Seriatopora,Belgium,Madagascar,specimens,Scientific,Wild
 2016,II,Seriatopora hystrix,Anthozoa,Scleractinia,Pocilloporidae,Seriatopora,Belgium,Saudi Arabia,specimens,Scientific,Wild
 2016,II,Seriatopora hystrix,Anthozoa,Scleractinia,Pocilloporidae,Seriatopora,Bahrain,France,raw corals,Commercial,Wild
-2016,II,Seriatopora hystrix,Anthozoa,Scleractinia,Pocilloporidae,Seriatopora,BL,France,raw corals,Commercial,Wild
+2016,II,Seriatopora hystrix,Anthozoa,Scleractinia,Pocilloporidae,Seriatopora,Saint Barthélemy,France,raw corals,Commercial,Wild
 2016,II,Seriatopora hystrix,Anthozoa,Scleractinia,Pocilloporidae,Seriatopora,Switzerland,France,raw corals,Commercial,Wild
 2016,II,Seriatopora hystrix,Anthozoa,Scleractinia,Pocilloporidae,Seriatopora,China,France,raw corals,Commercial,Wild
 2016,II,Seriatopora hystrix,Anthozoa,Scleractinia,Pocilloporidae,Seriatopora,Germany,Australia,live,Commercial,Wild
@@ -4229,7 +4229,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Porites astreoides,Anthozoa,Scleractinia,Poritidae,Porites,United States of America,Bermuda,raw corals,Scientific,Wild
 2016,II,Porites astreoides,Anthozoa,Scleractinia,Poritidae,Porites,United States of America,Bermuda,specimens,Scientific,Bred in captivity
 2016,II,Porites astreoides,Anthozoa,Scleractinia,Poritidae,Porites,United States of America,Bermuda,specimens,Scientific,Wild
-2016,II,Porites astreoides,Anthozoa,Scleractinia,Poritidae,Porites,United States of America,CW,raw corals,Scientific,Wild
+2016,II,Porites astreoides,Anthozoa,Scleractinia,Poritidae,Porites,United States of America,Curaçao,raw corals,Scientific,Wild
 2016,II,Porites astreoides,Anthozoa,Scleractinia,Poritidae,Porites,United States of America,Panama,specimens,Scientific,Wild
 2016,II,Porites branneri,Anthozoa,Scleractinia,Poritidae,Porites,United States of America,Indonesia,live,Commercial,Born in captivity
 2016,II,Porites cylindrica,Anthozoa,Scleractinia,Poritidae,Porites,Netherlands,Federated States of Micronesia,live,Commercial,Born in captivity
@@ -4258,7 +4258,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Porites porites,Anthozoa,Scleractinia,Poritidae,Porites,Germany,Virgin Islands,raw corals,Scientific,Wild
 2016,II,Porites porites,Anthozoa,Scleractinia,Poritidae,Porites,Monaco,France,raw corals,Scientific,Wild
 2016,II,Porites porites,Anthozoa,Scleractinia,Poritidae,Porites,United States of America,Bahamas,live,Scientific,Wild
-2016,II,Porites porites,Anthozoa,Scleractinia,Poritidae,Porites,United States of America,CW,raw corals,Scientific,Wild
+2016,II,Porites porites,Anthozoa,Scleractinia,Poritidae,Porites,United States of America,Curaçao,raw corals,Scientific,Wild
 2016,II,Porites porites,Anthozoa,Scleractinia,Poritidae,Porites,United States of America,Indonesia,live,Commercial,Wild
 2016,II,Porites rus,Anthozoa,Scleractinia,Poritidae,Porites,Germany,Fiji,raw corals,Scientific,Wild
 2016,II,Porites rus,Anthozoa,Scleractinia,Poritidae,Porites,France,France,raw corals,Scientific,Wild
@@ -4296,7 +4296,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Agapornis fischeri,Aves,Psittaciformes,Psittacidae,Agapornis,Canada,Netherlands,live,Commercial,Bred in captivity
 2016,II,Agapornis fischeri,Aves,Psittaciformes,Psittacidae,Agapornis,Canada,United States of America,live,Commercial,Bred in captivity
 2016,II,Agapornis fischeri,Aves,Psittaciformes,Psittacidae,Agapornis,Democratic Republic of Congo,Belgium,live,Commercial,Bred in captivity
-2016,II,Agapornis fischeri,Aves,Psittaciformes,Psittacidae,Agapornis,CW,Cuba,live,Commercial,Bred in captivity
+2016,II,Agapornis fischeri,Aves,Psittaciformes,Psittacidae,Agapornis,Curaçao,Cuba,live,Commercial,Bred in captivity
 2016,II,Agapornis fischeri,Aves,Psittaciformes,Psittacidae,Agapornis,Spain,Venezuela,live,Personal,Bred in captivity
 2016,II,Agapornis fischeri,Aves,Psittaciformes,Psittacidae,Agapornis,Ghana,Netherlands,live,Commercial,Bred in captivity
 2016,II,Agapornis fischeri,Aves,Psittaciformes,Psittacidae,Agapornis,Guatemala,Cuba,live,Commercial,Bred in captivity
@@ -4381,7 +4381,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Agapornis personatus,Aves,Psittaciformes,Psittacidae,Agapornis,Bermuda,United States of America,live,Commercial,Born in captivity
 2016,II,Agapornis personatus,Aves,Psittaciformes,Psittacidae,Agapornis,Brazil,Belgium,live,Commercial,Bred in captivity
 2016,II,Agapornis personatus,Aves,Psittaciformes,Psittacidae,Agapornis,Canada,Netherlands,live,Commercial,Bred in captivity
-2016,II,Agapornis personatus,Aves,Psittaciformes,Psittacidae,Agapornis,CW,Cuba,live,Commercial,Bred in captivity
+2016,II,Agapornis personatus,Aves,Psittaciformes,Psittacidae,Agapornis,Curaçao,Cuba,live,Commercial,Bred in captivity
 2016,II,Agapornis personatus,Aves,Psittaciformes,Psittacidae,Agapornis,Spain,Venezuela,live,Personal,Bred in captivity
 2016,II,Agapornis personatus,Aves,Psittaciformes,Psittacidae,Agapornis,Ghana,Netherlands,live,Commercial,Bred in captivity
 2016,II,Agapornis personatus,Aves,Psittaciformes,Psittacidae,Agapornis,Guatemala,Cuba,live,Commercial,Bred in captivity
@@ -4903,7 +4903,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Amazona ochrocephala,Aves,Psittaciformes,Psittacidae,Amazona,Uruguay,Venezuela,live,Personal,Unknown
 2016,II,Amazona ochrocephala,Aves,Psittaciformes,Psittacidae,Amazona,Vietnam,Singapore,live,Personal,Wild
 2016,II,Amazona ochrocephala,Aves,Psittaciformes,Psittacidae,Amazona,Unknown,Bahrain,live,Personal,Unknown
-2016,II,Amazona ventralis,Aves,Psittaciformes,Psittacidae,Amazona,CW,Netherlands,live,Commercial,Bred in captivity
+2016,II,Amazona ventralis,Aves,Psittaciformes,Psittacidae,Amazona,Curaçao,Netherlands,live,Commercial,Bred in captivity
 2016,II,Amazona ventralis,Aves,Psittaciformes,Psittacidae,Amazona,Czech Republic,Switzerland,live,Commercial,Bred in captivity
 2016,II,Amazona ventralis,Aves,Psittaciformes,Psittacidae,Amazona,Panama,Netherlands,live,Commercial,Bred in captivity
 2016,II,Amazona ventralis,Aves,Psittaciformes,Psittacidae,Amazona,Philippines,France,live,Breeding in captivity,Bred in captivity
@@ -4918,7 +4918,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Aprosmictus erythropterus,Aves,Psittaciformes,Psittacidae,Aprosmictus,Brazil,Germany,live,Commercial,Bred in captivity
 2016,II,Aprosmictus erythropterus,Aves,Psittaciformes,Psittacidae,Aprosmictus,Chile,Spain,live,Commercial,Bred in captivity
 2016,II,Aprosmictus erythropterus,Aves,Psittaciformes,Psittacidae,Aprosmictus,Chile,Spain,live,Commercial,Bred in captivity
-2016,II,Aprosmictus erythropterus,Aves,Psittaciformes,Psittacidae,Aprosmictus,CW,Netherlands,live,Commercial,Bred in captivity
+2016,II,Aprosmictus erythropterus,Aves,Psittaciformes,Psittacidae,Aprosmictus,Curaçao,Netherlands,live,Commercial,Bred in captivity
 2016,II,Aprosmictus erythropterus,Aves,Psittaciformes,Psittacidae,Aprosmictus,Iran,Czech Republic,live,Commercial,Bred in captivity
 2016,II,Aprosmictus erythropterus,Aves,Psittaciformes,Psittacidae,Aprosmictus,Iran,Kuwait,live,Personal,Bred in captivity
 2016,II,Aprosmictus erythropterus,Aves,Psittaciformes,Psittacidae,Aprosmictus,Iran,Kuwait,live,Commercial,Bred in captivity
@@ -5360,7 +5360,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Aratinga jandaya,Aves,Psittaciformes,Psittacidae,Aratinga,Angola,Portugal,live,Personal,Bred in captivity
 2016,II,Aratinga jandaya,Aves,Psittaciformes,Psittacidae,Aratinga,Angola,Portugal,live,Commercial,Bred in captivity
 2016,II,Aratinga jandaya,Aves,Psittaciformes,Psittacidae,Aratinga,Bahamas,United States of America,live,Personal,Bred in captivity
-2016,II,Aratinga jandaya,Aves,Psittaciformes,Psittacidae,Aratinga,CW,Netherlands,live,Commercial,Bred in captivity
+2016,II,Aratinga jandaya,Aves,Psittaciformes,Psittacidae,Aratinga,Curaçao,Netherlands,live,Commercial,Bred in captivity
 2016,II,Aratinga jandaya,Aves,Psittaciformes,Psittacidae,Aratinga,United Kingdom of Great Britain and Northern Ireland,South Africa,live,Personal,Born in captivity
 2016,II,Aratinga jandaya,Aves,Psittaciformes,Psittacidae,Aratinga,Ireland,United States of America,live,Personal,Bred in captivity
 2016,II,Aratinga jandaya,Aves,Psittaciformes,Psittacidae,Aratinga,Ireland,United States of America,live,Personal,Born in captivity
@@ -5759,7 +5759,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Forpus coelestis,Aves,Psittaciformes,Psittacidae,Forpus,Bangladesh,Netherlands,live,Commercial,Bred in captivity
 2016,II,Forpus coelestis,Aves,Psittaciformes,Psittacidae,Forpus,Canada,Netherlands,live,Commercial,Bred in captivity
 2016,II,Forpus coelestis,Aves,Psittaciformes,Psittacidae,Forpus,Canada,United States of America,live,Commercial,Bred in captivity
-2016,II,Forpus coelestis,Aves,Psittaciformes,Psittacidae,Forpus,CW,Netherlands,live,Personal,Bred in captivity
+2016,II,Forpus coelestis,Aves,Psittaciformes,Psittacidae,Forpus,Curaçao,Netherlands,live,Personal,Bred in captivity
 2016,II,Forpus coelestis,Aves,Psittaciformes,Psittacidae,Forpus,Indonesia,Belgium,live,Commercial,Bred in captivity
 2016,II,Forpus coelestis,Aves,Psittaciformes,Psittacidae,Forpus,Indonesia,Netherlands,live,Commercial,Bred in captivity
 2016,II,Forpus coelestis,Aves,Psittaciformes,Psittacidae,Forpus,Israel,Belgium,live,Commercial,Bred in captivity
@@ -5881,7 +5881,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Neophema chrysostoma,Aves,Psittaciformes,Psittacidae,Neophema,United States of America,Belgium,live,Commercial,Bred in captivity
 2016,II,Neophema chrysostoma,Aves,Psittaciformes,Psittacidae,Neophema,United States of America,Netherlands,live,Commercial,Bred in captivity
 2016,II,Neophema chrysostoma,Aves,Psittaciformes,Psittacidae,Neophema,Unknown,Germany,bodies,Circus or travelling exhibition,Bred in captivity
-2016,II,Neophema elegans,Aves,Psittaciformes,Psittacidae,Neophema,CW,Netherlands,live,Commercial,Bred in captivity
+2016,II,Neophema elegans,Aves,Psittaciformes,Psittacidae,Neophema,Curaçao,Netherlands,live,Commercial,Bred in captivity
 2016,II,Neophema elegans,Aves,Psittaciformes,Psittacidae,Neophema,Maldives,Belgium,live,Commercial,Bred in captivity
 2016,II,Neophema elegans,Aves,Psittaciformes,Psittacidae,Neophema,Norway,Denmark,live,Commercial,Bred in captivity
 2016,II,Neophema elegans,Aves,Psittaciformes,Psittacidae,Neophema,Russian Federation,Czech Republic,live,Commercial,Bred in captivity
@@ -5987,7 +5987,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Pionites leucogaster,Aves,Psittaciformes,Psittacidae,Pionites,Bangladesh,Netherlands,live,Commercial,Bred in captivity
 2016,II,Pionites leucogaster,Aves,Psittaciformes,Psittacidae,Pionites,Bahrain,South Africa,live,Commercial,Bred in captivity
 2016,II,Pionites leucogaster,Aves,Psittaciformes,Psittacidae,Pionites,Canada,Netherlands,live,Commercial,Bred in captivity
-2016,II,Pionites leucogaster,Aves,Psittaciformes,Psittacidae,Pionites,CW,Netherlands,live,Commercial,Bred in captivity
+2016,II,Pionites leucogaster,Aves,Psittaciformes,Psittacidae,Pionites,Curaçao,Netherlands,live,Commercial,Bred in captivity
 2016,II,Pionites leucogaster,Aves,Psittaciformes,Psittacidae,Pionites,Hong Kong,Czech Republic,live,Commercial,Bred in captivity
 2016,II,Pionites leucogaster,Aves,Psittaciformes,Psittacidae,Pionites,Hong Kong,Philippines,live,Commercial,Bred in captivity
 2016,II,Pionites leucogaster,Aves,Psittaciformes,Psittacidae,Pionites,Israel,Belgium,live,Commercial,Bred in captivity
@@ -6221,7 +6221,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Platycercus elegans,Aves,Psittaciformes,Psittacidae,Platycercus,Canada,Netherlands,live,Commercial,Bred in captivity
 2016,II,Platycercus elegans,Aves,Psittaciformes,Psittacidae,Platycercus,Chile,Spain,live,Commercial,Bred in captivity
 2016,II,Platycercus elegans,Aves,Psittaciformes,Psittacidae,Platycercus,Chile,Spain,live,Commercial,Bred in captivity
-2016,II,Platycercus elegans,Aves,Psittaciformes,Psittacidae,Platycercus,CW,Netherlands,live,Commercial,Bred in captivity
+2016,II,Platycercus elegans,Aves,Psittaciformes,Psittacidae,Platycercus,Curaçao,Netherlands,live,Commercial,Bred in captivity
 2016,II,Platycercus elegans,Aves,Psittaciformes,Psittacidae,Platycercus,Egypt,Belgium,live,Commercial,Bred in captivity
 2016,II,Platycercus elegans,Aves,Psittaciformes,Psittacidae,Platycercus,Guatemala,Spain,live,Commercial,Bred in captivity
 2016,II,Platycercus elegans,Aves,Psittaciformes,Psittacidae,Platycercus,Guatemala,Netherlands,live,Commercial,Bred in captivity
@@ -6288,8 +6288,8 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Platycercus eximius,Aves,Psittaciformes,Psittacidae,Platycercus,Democratic Republic of Congo,Belgium,live,Commercial,Bred in captivity
 2016,II,Platycercus eximius,Aves,Psittaciformes,Psittacidae,Platycercus,Chile,Spain,live,Commercial,Bred in captivity
 2016,II,Platycercus eximius,Aves,Psittaciformes,Psittacidae,Platycercus,Chile,Spain,live,Commercial,Bred in captivity
-2016,II,Platycercus eximius,Aves,Psittaciformes,Psittacidae,Platycercus,CW,Cuba,live,Commercial,Bred in captivity
-2016,II,Platycercus eximius,Aves,Psittaciformes,Psittacidae,Platycercus,CW,Netherlands,live,Commercial,Bred in captivity
+2016,II,Platycercus eximius,Aves,Psittaciformes,Psittacidae,Platycercus,Curaçao,Cuba,live,Commercial,Bred in captivity
+2016,II,Platycercus eximius,Aves,Psittaciformes,Psittacidae,Platycercus,Curaçao,Netherlands,live,Commercial,Bred in captivity
 2016,II,Platycercus eximius,Aves,Psittaciformes,Psittacidae,Platycercus,Egypt,Belgium,live,Commercial,Bred in captivity
 2016,II,Platycercus eximius,Aves,Psittaciformes,Psittacidae,Platycercus,Ghana,Netherlands,live,Commercial,Bred in captivity
 2016,II,Platycercus eximius,Aves,Psittaciformes,Psittacidae,Platycercus,Guatemala,Belgium,live,Commercial,Bred in captivity
@@ -6482,7 +6482,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Polytelis alexandrae,Aves,Psittaciformes,Psittacidae,Polytelis,Democratic Republic of Congo,Belgium,live,Commercial,Bred in captivity
 2016,II,Polytelis alexandrae,Aves,Psittaciformes,Psittacidae,Polytelis,Chile,Spain,live,Commercial,Bred in captivity
 2016,II,Polytelis alexandrae,Aves,Psittaciformes,Psittacidae,Polytelis,Chile,Spain,live,Commercial,Bred in captivity
-2016,II,Polytelis alexandrae,Aves,Psittaciformes,Psittacidae,Polytelis,CW,Netherlands,live,Commercial,Bred in captivity
+2016,II,Polytelis alexandrae,Aves,Psittaciformes,Psittacidae,Polytelis,Curaçao,Netherlands,live,Commercial,Bred in captivity
 2016,II,Polytelis alexandrae,Aves,Psittaciformes,Psittacidae,Polytelis,Israel,Belgium,live,Commercial,Bred in captivity
 2016,II,Polytelis alexandrae,Aves,Psittaciformes,Psittacidae,Polytelis,Israel,Czech Republic,live,Commercial,Bred in captivity
 2016,II,Polytelis alexandrae,Aves,Psittaciformes,Psittacidae,Polytelis,Japan,Belgium,live,Commercial,Bred in captivity
@@ -6539,7 +6539,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Polytelis swainsonii,Aves,Psittaciformes,Psittacidae,Polytelis,Bangladesh,Netherlands,live,Commercial,Bred in captivity
 2016,II,Polytelis swainsonii,Aves,Psittaciformes,Psittacidae,Polytelis,Bahrain,Czech Republic,live,Commercial,Bred in captivity
 2016,II,Polytelis swainsonii,Aves,Psittaciformes,Psittacidae,Polytelis,Democratic Republic of Congo,Belgium,live,Commercial,Bred in captivity
-2016,II,Polytelis swainsonii,Aves,Psittaciformes,Psittacidae,Polytelis,CW,Netherlands,live,Commercial,Bred in captivity
+2016,II,Polytelis swainsonii,Aves,Psittaciformes,Psittacidae,Polytelis,Curaçao,Netherlands,live,Commercial,Bred in captivity
 2016,II,Polytelis swainsonii,Aves,Psittaciformes,Psittacidae,Polytelis,Egypt,Belgium,live,Commercial,Bred in captivity
 2016,II,Polytelis swainsonii,Aves,Psittaciformes,Psittacidae,Polytelis,Israel,Belgium,live,Commercial,Bred in captivity
 2016,II,Polytelis swainsonii,Aves,Psittaciformes,Psittacidae,Polytelis,Israel,Czech Republic,live,Commercial,Bred in captivity
@@ -6612,7 +6612,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Psephotus haematonotus,Aves,Psittaciformes,Psittacidae,Psephotus,Chile,Spain,live,Commercial,Born in captivity
 2016,II,Psephotus haematonotus,Aves,Psittaciformes,Psittacidae,Psephotus,Chile,Spain,live,Commercial,Bred in captivity
 2016,II,Psephotus haematonotus,Aves,Psittaciformes,Psittacidae,Psephotus,Chile,Spain,live,Commercial,Born in captivity
-2016,II,Psephotus haematonotus,Aves,Psittaciformes,Psittacidae,Psephotus,CW,Cuba,live,Commercial,Bred in captivity
+2016,II,Psephotus haematonotus,Aves,Psittaciformes,Psittacidae,Psephotus,Curaçao,Cuba,live,Commercial,Bred in captivity
 2016,II,Psephotus haematonotus,Aves,Psittaciformes,Psittacidae,Psephotus,Egypt,Belgium,live,Commercial,Bred in captivity
 2016,II,Psephotus haematonotus,Aves,Psittaciformes,Psittacidae,Psephotus,Guatemala,Cuba,live,Commercial,Bred in captivity
 2016,II,Psephotus haematonotus,Aves,Psittaciformes,Psittacidae,Psephotus,Guatemala,Spain,live,Commercial,Bred in captivity
@@ -6711,7 +6711,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Psittacula cyanocephala,Aves,Psittaciformes,Psittacidae,Psittacula,Brazil,Portugal,live,Commercial,Bred in captivity
 2016,II,Psittacula cyanocephala,Aves,Psittaciformes,Psittacidae,Psittacula,Chile,Spain,live,Commercial,Bred in captivity
 2016,II,Psittacula cyanocephala,Aves,Psittaciformes,Psittacidae,Psittacula,Chile,Spain,live,Commercial,Bred in captivity
-2016,II,Psittacula cyanocephala,Aves,Psittaciformes,Psittacidae,Psittacula,CW,Netherlands,live,Commercial,Bred in captivity
+2016,II,Psittacula cyanocephala,Aves,Psittaciformes,Psittacidae,Psittacula,Curaçao,Netherlands,live,Commercial,Bred in captivity
 2016,II,Psittacula cyanocephala,Aves,Psittaciformes,Psittacidae,Psittacula,France,South Korea,garments,Circus or travelling exhibition,Pre-Convention specimens
 2016,II,Psittacula cyanocephala,Aves,Psittaciformes,Psittacidae,Psittacula,South Korea,Netherlands,live,Commercial,Bred in captivity
 2016,II,Psittacula cyanocephala,Aves,Psittaciformes,Psittacidae,Psittacula,Lebanon,Czech Republic,live,Commercial,Bred in captivity
@@ -6731,7 +6731,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Psittacula derbiana,Aves,Psittaciformes,Psittacidae,Psittacula,Brazil,Portugal,live,Commercial,Bred in captivity
 2016,II,Psittacula derbiana,Aves,Psittaciformes,Psittacidae,Psittacula,Canada,Netherlands,live,Commercial,Bred in captivity
 2016,II,Psittacula derbiana,Aves,Psittaciformes,Psittacidae,Psittacula,Switzerland,Germany,live,Zoo,Bred in captivity
-2016,II,Psittacula derbiana,Aves,Psittaciformes,Psittacidae,Psittacula,CW,Netherlands,live,Commercial,Bred in captivity
+2016,II,Psittacula derbiana,Aves,Psittaciformes,Psittacidae,Psittacula,Curaçao,Netherlands,live,Commercial,Bred in captivity
 2016,II,Psittacula derbiana,Aves,Psittaciformes,Psittacidae,Psittacula,Japan,Belgium,live,Commercial,Bred in captivity
 2016,II,Psittacula derbiana,Aves,Psittaciformes,Psittacidae,Psittacula,Japan,Philippines,live,Commercial,Bred in captivity
 2016,II,Psittacula derbiana,Aves,Psittaciformes,Psittacidae,Psittacula,South Korea,Spain,live,Commercial,Bred in captivity
@@ -6755,7 +6755,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Psittacula eupatria,Aves,Psittaciformes,Psittacidae,Psittacula,Brunei Darussalam,Netherlands,live,Commercial,Bred in captivity
 2016,II,Psittacula eupatria,Aves,Psittaciformes,Psittacidae,Psittacula,Canada,Netherlands,live,Commercial,Bred in captivity
 2016,II,Psittacula eupatria,Aves,Psittaciformes,Psittacidae,Psittacula,Switzerland,Portugal,live,Personal,Bred in captivity
-2016,II,Psittacula eupatria,Aves,Psittaciformes,Psittacidae,Psittacula,CW,Netherlands,live,Commercial,Bred in captivity
+2016,II,Psittacula eupatria,Aves,Psittaciformes,Psittacidae,Psittacula,Curaçao,Netherlands,live,Commercial,Bred in captivity
 2016,II,Psittacula eupatria,Aves,Psittaciformes,Psittacidae,Psittacula,Czech Republic,United States of America,live,Personal,Bred in captivity
 2016,II,Psittacula eupatria,Aves,Psittaciformes,Psittacidae,Psittacula,Egypt,Belgium,live,Commercial,Bred in captivity
 2016,II,Psittacula eupatria,Aves,Psittaciformes,Psittacidae,Psittacula,United Kingdom of Great Britain and Northern Ireland,Jersey,bodies,Scientific,Bred in captivity
@@ -7255,7 +7255,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Pyrrhura molinae,Aves,Psittaciformes,Psittacidae,Pyrrhura,Canada,United States of America,live,Personal,Born in captivity
 2016,II,Pyrrhura molinae,Aves,Psittaciformes,Psittacidae,Pyrrhura,Canada,United States of America,live,Commercial,Born in captivity
 2016,II,Pyrrhura molinae,Aves,Psittaciformes,Psittacidae,Pyrrhura,Colombia,United States of America,live,Personal,Bred in captivity
-2016,II,Pyrrhura molinae,Aves,Psittaciformes,Psittacidae,Pyrrhura,CW,Netherlands,live,Commercial,Bred in captivity
+2016,II,Pyrrhura molinae,Aves,Psittaciformes,Psittacidae,Pyrrhura,Curaçao,Netherlands,live,Commercial,Bred in captivity
 2016,II,Pyrrhura molinae,Aves,Psittaciformes,Psittacidae,Pyrrhura,Germany,United States of America,live,Personal,Born in captivity
 2016,II,Pyrrhura molinae,Aves,Psittaciformes,Psittacidae,Pyrrhura,Spain,Canada,live,Personal,Born in captivity
 2016,II,Pyrrhura molinae,Aves,Psittaciformes,Psittacidae,Pyrrhura,United Kingdom of Great Britain and Northern Ireland,Australia,live,Personal,Bred in captivity
@@ -7318,7 +7318,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Pyrrhura perlata,Aves,Psittaciformes,Psittacidae,Pyrrhura,Switzerland,France,live,Breeding in captivity,Born in captivity
 2016,II,Pyrrhura perlata,Aves,Psittaciformes,Psittacidae,Pyrrhura,Chile,Spain,live,Commercial,Bred in captivity
 2016,II,Pyrrhura perlata,Aves,Psittaciformes,Psittacidae,Pyrrhura,Chile,Spain,live,Commercial,Bred in captivity
-2016,II,Pyrrhura perlata,Aves,Psittaciformes,Psittacidae,Pyrrhura,CW,Netherlands,live,Commercial,Bred in captivity
+2016,II,Pyrrhura perlata,Aves,Psittaciformes,Psittacidae,Pyrrhura,Curaçao,Netherlands,live,Commercial,Bred in captivity
 2016,II,Pyrrhura perlata,Aves,Psittaciformes,Psittacidae,Pyrrhura,Indonesia,Netherlands,live,Commercial,Bred in captivity
 2016,II,Pyrrhura perlata,Aves,Psittaciformes,Psittacidae,Pyrrhura,Japan,Belgium,live,Commercial,Bred in captivity
 2016,II,Pyrrhura perlata,Aves,Psittaciformes,Psittacidae,Pyrrhura,Japan,Philippines,live,Commercial,Bred in captivity
@@ -7740,9 +7740,9 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Python bivittatus,Reptilia,Serpentes,Pythonidae,Python,Bahrain,Italy,leather products (small),Commercial,Bred in captivity
 2016,II,Python bivittatus,Reptilia,Serpentes,Pythonidae,Python,Bahrain,Monaco,leather products (small),Personal,Bred in captivity
 2016,II,Python bivittatus,Reptilia,Serpentes,Pythonidae,Python,Bahrain,Netherlands,leather products (small),Commercial,Bred in captivity
-2016,II,Python bivittatus,Reptilia,Serpentes,Pythonidae,Python,BL,France,leather products (small),Commercial,Bred in captivity
-2016,II,Python bivittatus,Reptilia,Serpentes,Pythonidae,Python,BL,Italy,leather products (small),Commercial,Bred in captivity
-2016,II,Python bivittatus,Reptilia,Serpentes,Pythonidae,Python,BL,United States of America,leather products (small),Commercial,Bred in captivity
+2016,II,Python bivittatus,Reptilia,Serpentes,Pythonidae,Python,Saint Barthélemy,France,leather products (small),Commercial,Bred in captivity
+2016,II,Python bivittatus,Reptilia,Serpentes,Pythonidae,Python,Saint Barthélemy,Italy,leather products (small),Commercial,Bred in captivity
+2016,II,Python bivittatus,Reptilia,Serpentes,Pythonidae,Python,Saint Barthélemy,United States of America,leather products (small),Commercial,Bred in captivity
 2016,II,Python bivittatus,Reptilia,Serpentes,Pythonidae,Python,Brunei Darussalam,Italy,leather products (small),Personal,Bred in captivity
 2016,II,Python bivittatus,Reptilia,Serpentes,Pythonidae,Python,Brazil,China,leather products (small),Commercial,Bred in captivity
 2016,II,Python bivittatus,Reptilia,Serpentes,Pythonidae,Python,Brazil,France,leather products (small),Commercial,Bred in captivity
@@ -9624,13 +9624,13 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,Bahrain,Italy,leather products (large),Personal,Bred in captivity
 2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,Bahrain,Italy,leather products (small),Commercial,Bred in captivity
 2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,Bahrain,Portugal,leather products (small),Commercial,Wild
-2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,BL,France,leather products (small),Commercial,Wild
-2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,BL,France,leather products (small),Commercial,Bred in captivity
-2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,BL,Italy,leather products (small),Commercial,Wild
-2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,BL,Italy,leather products (small),Commercial,Wild
-2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,BL,Italy,leather products (small),Commercial,Bred in captivity
-2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,BL,Italy,leather products (small),Commercial,Wild
-2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,BL,United States of America,leather products (small),Commercial,Wild
+2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,Saint Barthélemy,France,leather products (small),Commercial,Wild
+2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,Saint Barthélemy,France,leather products (small),Commercial,Bred in captivity
+2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,Saint Barthélemy,Italy,leather products (small),Commercial,Wild
+2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,Saint Barthélemy,Italy,leather products (small),Commercial,Wild
+2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,Saint Barthélemy,Italy,leather products (small),Commercial,Bred in captivity
+2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,Saint Barthélemy,Italy,leather products (small),Commercial,Wild
+2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,Saint Barthélemy,United States of America,leather products (small),Commercial,Wild
 2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,Bermuda,Italy,leather products (small),Commercial,Wild
 2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,Brunei Darussalam,Italy,leather products (small),Personal,Bred in captivity
 2016,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,Brazil,Spain,leather products (small),Commercial,Wild
@@ -11999,7 +11999,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Siderastrea spp.,Anthozoa,Scleractinia,Siderastreidae,Siderastrea,Brazil,Saint Helena and Dependencies,live,Scientific,Wild
 2016,II,Siderastrea radians,Anthozoa,Scleractinia,Siderastreidae,Siderastrea,Spain,Dominican Republic,specimens,Scientific,Wild
 2016,II,Siderastrea siderea,Anthozoa,Scleractinia,Siderastreidae,Siderastrea,Spain,Dominican Republic,specimens,Scientific,Wild
-2016,II,Siderastrea siderea,Anthozoa,Scleractinia,Siderastreidae,Siderastrea,United States of America,CW,raw corals,Scientific,Wild
+2016,II,Siderastrea siderea,Anthozoa,Scleractinia,Siderastreidae,Siderastrea,United States of America,Curaçao,raw corals,Scientific,Wild
 2016,II,Siderastrea siderea,Anthozoa,Scleractinia,Siderastreidae,Siderastrea,United States of America,Panama,raw corals,Scientific,Wild
 2016,II,Spheniscus demersus,Aves,Sphenisciformes,Spheniscidae,Spheniscus,Germany,Switzerland,live,Zoo,Bred in captivity
 2016,II,Spheniscus demersus,Aves,Sphenisciformes,Spheniscidae,Spheniscus,Germany,Switzerland,live,Zoo,Bred in captivity
@@ -12346,8 +12346,8 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Strombus gigas,Gastropoda,Mesogastropoda,Strombidae,Strombus,China,Bahamas,meat,Commercial,Wild
 2016,II,Strombus gigas,Gastropoda,Mesogastropoda,Strombidae,Strombus,China,Bahamas,shells,Commercial,Wild
 2016,II,Strombus gigas,Gastropoda,Mesogastropoda,Strombidae,Strombus,China,Bahamas,shells,Commercial,Wild
-2016,II,Strombus gigas,Gastropoda,Mesogastropoda,Strombidae,Strombus,CW,Nicaragua,meat,Commercial,Wild
-2016,II,Strombus gigas,Gastropoda,Mesogastropoda,Strombidae,Strombus,CW,United States of America,meat,Commercial,Wild
+2016,II,Strombus gigas,Gastropoda,Mesogastropoda,Strombidae,Strombus,Curaçao,Nicaragua,meat,Commercial,Wild
+2016,II,Strombus gigas,Gastropoda,Mesogastropoda,Strombidae,Strombus,Curaçao,United States of America,meat,Commercial,Wild
 2016,II,Strombus gigas,Gastropoda,Mesogastropoda,Strombidae,Strombus,Germany,Bahamas,shells,Personal,Wild
 2016,II,Strombus gigas,Gastropoda,Mesogastropoda,Strombidae,Strombus,Spain,Cuba,shells,Personal,Wild
 2016,II,Strombus gigas,Gastropoda,Mesogastropoda,Strombidae,Strombus,France,Switzerland,shells,Commercial,Wild
@@ -12846,7 +12846,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Pecari tajacu,Mammalia,Artiodactyla,Tayassuidae,Pecari,Russian Federation,Italy,garments,Commercial,Wild
 2016,II,Pecari tajacu,Mammalia,Artiodactyla,Tayassuidae,Pecari,Russian Federation,Italy,leather products (small),Commercial,Wild
 2016,II,Pecari tajacu,Mammalia,Artiodactyla,Tayassuidae,Pecari,Saudi Arabia,Italy,leather products (small),Commercial,Wild
-2016,II,Pecari tajacu,Mammalia,Artiodactyla,Tayassuidae,Pecari,SU,Italy,garments,Commercial,Wild
+2016,II,Pecari tajacu,Mammalia,Artiodactyla,Tayassuidae,Pecari,Russian Federation,Italy,garments,Commercial,Wild
 2016,II,Pecari tajacu,Mammalia,Artiodactyla,Tayassuidae,Pecari,Turkmenistan,Italy,leather products (small),Commercial,Wild
 2016,II,Pecari tajacu,Mammalia,Artiodactyla,Tayassuidae,Pecari,Ukraine,Germany,garments,Commercial,Wild
 2016,II,Pecari tajacu,Mammalia,Artiodactyla,Tayassuidae,Pecari,Ukraine,France,leather products (small),Commercial,Wild
@@ -13584,7 +13584,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Chelonoidis carbonarius,Reptilia,Testudines,Testudinidae,Chelonoidis,Philippines,United States of America,live,Breeding in captivity,Bred in captivity
 2016,II,Chelonoidis carbonarius,Reptilia,Testudines,Testudinidae,Chelonoidis,Philippines,United States of America,live,Breeding in captivity,Born in captivity
 2016,II,Chelonoidis carbonarius,Reptilia,Testudines,Testudinidae,Chelonoidis,Philippines,United States of America,live,Commercial,Bred in captivity
-2016,II,Chelonoidis carbonarius,Reptilia,Testudines,Testudinidae,Chelonoidis,SX,Barbados,live,Commercial,Bred in captivity
+2016,II,Chelonoidis carbonarius,Reptilia,Testudines,Testudinidae,Chelonoidis,Sint Maarten,Barbados,live,Commercial,Bred in captivity
 2016,II,Chelonoidis carbonarius,Reptilia,Testudines,Testudinidae,Chelonoidis,Thailand,Barbados,live,Commercial,Bred in captivity
 2016,II,Chelonoidis carbonarius,Reptilia,Testudines,Testudinidae,Chelonoidis,Thailand,Guyana,live,Commercial,Wild
 2016,II,Chelonoidis carbonarius,Reptilia,Testudines,Testudinidae,Chelonoidis,Thailand,United States of America,live,Commercial,Bred in captivity
@@ -15533,10 +15533,10 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,Bahrain,France,leather products (small),Commercial,Wild
 2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,Bahrain,France,leather products (small),Commercial,Wild
 2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,Bahrain,Italy,leather products (small),Personal,Wild
-2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,BL,France,leather products (small),Commercial,Wild
-2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,BL,France,skin pieces,Commercial,Wild
-2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,BL,France,leather products (small),Commercial,Wild
-2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,BL,Italy,leather products (small),Commercial,Wild
+2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,Saint Barthélemy,France,leather products (small),Commercial,Wild
+2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,Saint Barthélemy,France,skin pieces,Commercial,Wild
+2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,Saint Barthélemy,France,leather products (small),Commercial,Wild
+2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,Saint Barthélemy,Italy,leather products (small),Commercial,Wild
 2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,Brunei Darussalam,Singapore,leather products (small),Commercial,Wild
 2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,Brazil,France,leather products (small),Commercial,Wild
 2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,Brazil,France,skin pieces,Commercial,Wild
@@ -15672,7 +15672,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,France,United Arab Emirates,leather products (small),Personal,Wild
 2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,France,United Arab Emirates,leather products (small),Commercial,Wild
 2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,France,United Arab Emirates,leather products (small),Commercial,Wild
-2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,France,BL,leather products (small),Commercial,Wild
+2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,France,Saint Barthélemy,leather products (small),Commercial,Wild
 2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,France,Switzerland,leather products (small),Commercial,Wild
 2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,France,Switzerland,leather products (small),Commercial,Wild
 2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,France,Switzerland,leather products (small),Commercial,Wild
@@ -16042,7 +16042,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,Slovakia,Switzerland,leather products (small),Commercial,Wild
 2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,Senegal,France,leather products (small),Commercial,Wild
 2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,Senegal,United States of America,leather products (small),Law enforcement / judicial / forensic,Confiscated or seized specimens
-2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,SU,Italy,leather products (small),Personal,Wild
+2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,Russian Federation,Italy,leather products (small),Personal,Wild
 2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,Thailand,Spain,leather products (small),Commercial,Wild
 2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,Thailand,Spain,leather products (small),Commercial,Wild
 2016,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,Thailand,France,leather products (small),Commercial,Wild
@@ -16346,10 +16346,10 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,Bahrain,Netherlands,leather products (small),Commercial,Wild
 2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,Bahrain,Netherlands,leather products (small),Commercial,Wild
 2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,Benin,France,leather products (small),Commercial,Wild
-2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,BL,France,leather products (small),Commercial,Wild
-2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,BL,Italy,leather products (small),Commercial,Wild
-2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,BL,Italy,leather products (small),Commercial,Wild
-2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,BL,United States of America,leather products (small),Commercial,Wild
+2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,Saint Barthélemy,France,leather products (small),Commercial,Wild
+2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,Saint Barthélemy,Italy,leather products (small),Commercial,Wild
+2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,Saint Barthélemy,Italy,leather products (small),Commercial,Wild
+2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,Saint Barthélemy,United States of America,leather products (small),Commercial,Wild
 2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,Brunei Darussalam,France,leather products (small),Commercial,Wild
 2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,Brazil,France,leather products (small),Commercial,Bred in captivity
 2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,Brazil,France,leather products (small),Commercial,Wild
@@ -16468,7 +16468,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,Colombia,Spain,skins,Commercial,Wild
 2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,Colombia,Italy,skins,Commercial,Wild
 2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,Colombia,United States of America,skins,Commercial,Wild
-2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,CW,Netherlands,leather products (small),Commercial,Wild
+2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,Curaçao,Netherlands,leather products (small),Commercial,Wild
 2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,Czech Republic,Indonesia,live,Commercial,Bred in captivity
 2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,Czech Republic,Indonesia,live,Commercial,Wild
 2016,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,Germany,Switzerland,leather products (small),Commercial,Wild
@@ -18309,7 +18309,7 @@ Year,App,Taxon,Class,Order,Family,Genus,Importer,Exporter,Condition,Purpose,Sour
 2016,III,Pavo cristatus,Aves,Galliformes,Phasianidae,Pavo,Australia,New Zealand,skins,Commercial,Wild
 2016,III,Pavo cristatus,Aves,Galliformes,Phasianidae,Pavo,Australia,United States of America,trophies,Commercial,Confiscated or seized specimens
 2016,III,Pavo cristatus,Aves,Galliformes,Phasianidae,Pavo,Bangladesh,Netherlands,live,Commercial,Bred in captivity
-2016,III,Pavo cristatus,Aves,Galliformes,Phasianidae,Pavo,BL,Italy,garments,Commercial,Bred in captivity
+2016,III,Pavo cristatus,Aves,Galliformes,Phasianidae,Pavo,Saint Barthélemy,Italy,garments,Commercial,Bred in captivity
 2016,III,Pavo cristatus,Aves,Galliformes,Phasianidae,Pavo,Canada,United States of America,feathers,Commercial,Bred in captivity
 2016,III,Pavo cristatus,Aves,Galliformes,Phasianidae,Pavo,Democratic Republic of Congo,Belgium,live,Commercial,Bred in captivity
 2016,III,Pavo cristatus,Aves,Galliformes,Phasianidae,Pavo,Switzerland,Germany,bodies,Commercial,Pre-Convention specimens
