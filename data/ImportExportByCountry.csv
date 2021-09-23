@@ -1,184 +1,184 @@
-Country,Import,Export
-Afghanistan,112,25
-Albania,67,12
-Algeria,2,9
-Andorra,1,5
-Angola,10,0
-Argentina,1,0
-Armenia,7,11
-Aruba,1,0
-Australia,13,62
-Austria,56,4
-Azerbaijan,3,0
-Bahamas,23,23
-Bahrain,141,7
-Bangladesh,12,2
-Barbados,2,0
-Belarus,2,3
-Belgium,8,24
-Belize,6,7
-Benin,4,4
-Bermuda,74,11
-Bolivia,3,17
-Bosnia and Herzegovina,397,97
-Botswana,10,12
-Brazil,1,0
-Brunei Darussalam,681,251
-Bulgaria,2,2
-Cambodia,1,21
-Cameroon,4,3
-Canada,3,2
-Cayman Islands,402,401
-Central African Republic,56,17
-Chile,31,3
-China,25,0
-Colombia,287,89
-Congo,145,16
-Costa Rica,6,10
-Côte d'Ivoire,37,20
-Croatia,1,0
-Cuba,19,14
-Curaçao,3,0
-Cyprus,5,0
-Czech Republic,1,14
-Democratic Republic of Congo,4,0
-Denmark,2,199
-Dominica,2,24
-Dominican Republic,6,5
-Ecuador,9,2
-Egypt,410,2108
-El Salvador,1,13
-Equatorial Guinea,2,1
-Eritrea,77,44
-Estonia,129,22
-Ethiopia,4,37
-Faroe Islands,13,1
-Fiji,388,234
-Finland,206,147
-France,2,0
-French Southern Territories,31,70
-Gabon,211,57
-Georgia,64,13
-Germany,4,12
-Ghana,16,8
-Greece,16,0
-Greenland,73,16
-Guadeloupe,2,45
-Guam,737,398
-Guatemala,40,8
-Guernsey,252,47
-Guinea,438,487
-Haiti,50,76
-Honduras,3,0
-Hong Kong,8,0
-Hungary,9,1
-Iceland,159,3086
-India,610,1131
-Indonesia,1,1
-Iran,171,29
-Iraq,8,1
-Ireland,18,8
-Isle of Man,24,8
-Israel,19,0
-Italy,24,12
-Jamaica,11,14
-Japan,139,98
-Jersey,8,28
-Jordan,6,13
-Kazakhstan,130,32
-Kenya,7,32
-Kuwait,4,0
-Kyrgyzstan,4,1
-Laos,148,241
-Latvia,233,667
-Lebanon,4,3
-Liberia,202,292
-Libya,269,139
-Liechtenstein,581,470
-Lithuania,39,7
-Luxembourg,1,0
-Macau,148,2
-Macedonia,1,3
-Madagascar,86,8
-Malawi,6,0
-Malaysia,3,5
-Maldives,3,0
-Mali,53,72
-Martinique,24,18
-Mauritania,313,137
-Mauritius,220,27
-Mexico,10,8
-Monaco,2,0
-Mongolia,475,84
-Montenegro,11,1
-Morocco,1,0
-Mozambique,28,13
-Myanmar,9,10
-Nambia,20,3
-Nepal,18,2
-Netherlands,104,0
-Netherlands Antilles,39,0
-New Zealand,1,0
-Nicaragua,216,473
-Niger,10,0
-Nigeria,316,91
-North Korea,9,23
-Northern Mariana Islands,32,13
-Norway,22,4
-Oman,155,574
-Pakistan,128,82
-Panama,187,48
-Paraguay,12,72
-Peru,532,719
-Philippines,14,8
-Poland,12,39
-Portugal,41,7
-Puerto Rico,9,14
-Qatar,34,28
-Republic of Moldova,223,177
-Romania,1272,206
-Russia,46,26
-Saint Barthélemy,7,13
-Saint Kitts and Nevis,91,69
-Saint Lucia,2970,1313
-San Marino,3,1
-Saudi Arabia,12,6
-Senegal,22,10
-Serbia,16,5
-Singapore,51,3
-Sint Maarten,9,26
-Slovakia,20,1
-Slovenia,1,15
-South Africa,64,0
-South Korea,479,459
-Spain,172,111
-Sri Lanka,14,55
-Sudan,11,0
-Suriname,19,10
-Sweden,6,77
-Switzerland,4,7
-Syria,179,89
-Taiwan,23,39
-Tajikstan,19,3
-Tanzania,5,22
-Thailand,5,4
-Togo,4,10
-Tokelau,8,88
-Trinidad and Tobago,176,8
-Tunisia,2,38
-Turkey,115,632
-Turkmenistan,21,14
-Uganda,80,15
-Ukraine,15,0
-United Arab Emirates,23,0
-United Kingdom of Great Britain and Northern Ireland,1,37
-United States,2,12
-Unknown,22,7
-Uruguay,5,16
-Uzbekistan,21,0
-Vatican City,141,21
-Venezuela,1,0
-Vietnam,54,16
-Virgin Islands,65,166
-Zambia,7,15
-Zimbabwe,295,167
+Country,Detrimental Trade Species,Beneficial Trade Species,Import
+Afghanistan,1,0,1
+Albania,12,0,12
+Algeria,15,1,16
+Andorra,6,2,8
+Angola,19,0,19
+Argentina,124,15,139
+Armenia,26,2,28
+Aruba,20,0,20
+Australia,130,25,155
+Austria,109,19,128
+Azerbaijan,50,1,51
+Bahamas,23,0,23
+Bahrain,167,4,171
+Bangladesh,100,4,104
+Barbados,32,2,34
+Belarus,9,3,12
+Belgium,107,8,115
+Belize,2,0,2
+Benin,1,0,1
+Bermuda,6,0,6
+Bolivia,0,1,1
+Bosnia and Herzegovina,2,2,4
+Botswana,2,0,2
+Brazil,179,8,187
+Brunei Darussalam,22,1,23
+Bulgaria,29,2,31
+Cambodia,19,0,19
+Cameroon,4,0,4
+Canada,438,41,479
+Cayman Islands,4,0,4
+Central African Republic,1,0,1
+Chile,131,10,141
+China,621,60,681
+Colombia,16,7,23
+Congo,6,0,6
+Costa Rica,38,2,40
+Côte d'Ivoire,10,0,10
+Croatia,4,0,4
+Cuba,1,0,1
+Curaçao,22,0,22
+Cyprus,24,1,25
+Czech Republic,137,11,148
+Democratic Republic of Congo,8,1,9
+Denmark,163,9,172
+Dominica,1,0,1
+Dominican Republic,23,1,24
+Ecuador,4,5,9
+Egypt,51,5,56
+El Salvador,3,5,8
+Equatorial Guinea,1,1,2
+Eritrea,1,0,1
+Estonia,3,0,3
+Ethiopia,6,0,6
+Faroe Islands,3,2,5
+Fiji,2,0,2
+Finland,18,0,18
+France,580,30,610
+French Southern Territories,2,0,2
+Gabon,3,0,3
+Georgia,22,0,22
+Germany,468,64,532
+Ghana,12,0,12
+Greece,45,1,46
+Greenland,5,1,6
+Guadeloupe,3,0,3
+Guam,15,0,15
+Guatemala,61,3,64
+Guernsey,7,0,7
+Guinea,1,0,1
+Haiti,2,0,2
+Honduras,3,2,5
+Hong Kong,661,76,737
+Hungary,16,6,22
+Iceland,10,3,13
+India,68,5,73
+Indonesia,149,10,159
+Iran,147,1,148
+Iraq,17,1,18
+Ireland,37,4,41
+Isle of Man,4,0,4
+Israel,168,8,176
+Italy,386,24,410
+Jamaica,6,0,6
+Japan,1214,58,1272
+Jersey,8,0,8
+Jordan,71,3,74
+Kazakhstan,48,6,54
+Kenya,4,9,13
+Kuwait,200,6,206
+Kyrgyzstan,14,0,14
+Laos,16,0,16
+Latvia,8,1,9
+Lebanon,127,3,130
+Liberia,1,0,1
+Libya,18,3,21
+Liechtenstein,3,0,3
+Lithuania,13,3,16
+Luxembourg,1,3,4
+Macau,79,1,80
+Macedonia,5,2,7
+Madagascar,12,0,12
+Malawi,3,0,3
+Malaysia,288,7,295
+Maldives,8,0,8
+Mali,2,0,2
+Martinique,1,0,1
+Mauritania,2,0,2
+Mauritius,11,0,11
+Mexico,249,20,269
+Monaco,65,0,65
+Mongolia,4,1,5
+Montenegro,10,0,10
+Morocco,59,5,64
+Mozambique,7,0,7
+Myanmar,3,1,4
+Nambia,13,1,14
+Nepal,33,6,39
+Netherlands,223,10,233
+Netherlands Antilles,11,0,11
+New Zealand,202,18,220
+Nicaragua,5,0,5
+Niger,3,0,3
+Nigeria,18,1,19
+North Korea,39,0,39
+Northern Mariana Islands,3,0,3
+Norway,245,7,252
+Oman,176,3,179
+Pakistan,107,5,112
+Panama,63,4,67
+Paraguay,8,1,9
+Peru,46,4,50
+Philippines,212,11,223
+Poland,83,3,86
+Portugal,47,6,53
+Puerto Rico,6,0,6
+Qatar,296,20,316
+Republic of Moldova,11,0,11
+Romania,20,1,21
+Russian Federation,262,25,287
+Saint Barthélemy,19,1,20
+Saint Kitts and Nevis,1,0,1
+Saint Lucia,2,0,2
+San Marino,56,0,56
+Saudi Arabia,139,6,145
+Senegal,33,4,37
+Serbia,14,5,19
+Singapore,427,11,438
+Sint Maarten,1,0,1
+Slovakia,21,3,24
+Slovenia,1,0,1
+South Africa,186,16,202
+South Korea,466,9,475
+Spain,181,35,216
+Sri Lanka,6,3,9
+Sudan,1,0,1
+Suriname,8,0,8
+Sweden,69,8,77
+Switzerland,480,101,581
+Syria,4,0,4
+Taiwan,386,11,397
+Tajikstan,3,1,4
+Tanzania,2,0,2
+Thailand,202,9,211
+Togo,2,0,2
+Tokelau,2,0,2
+Trinidad and Tobago,31,1,32
+Tunisia,22,2,24
+Turkey,292,21,313
+Turkmenistan,7,3,10
+Uganda,7,0,7
+Ukraine,119,10,129
+United Arab Emirates,364,24,388
+United Kingdom of Great Britain and Northern Ireland,371,31,402
+United States of America,2575,395,2970
+Unknown,135,6,141
+Uruguay,5,4,9
+Uzbekistan,28,3,31
+Vatican City,1,0,1
+Venezuela,10,0,10
+Vietnam,89,2,91
+Virgin Islands,4,0,4
+Zambia,1,0,1
+Zimbabwe,3,0,3
