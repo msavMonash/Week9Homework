@@ -1,184 +1,184 @@
-Country,Detrimental Trade Species,Beneficial Trade Species,Import
-Afghanistan,1,0,1
-Albania,12,0,12
-Algeria,15,1,16
-Andorra,6,2,8
-Angola,19,0,19
-Argentina,124,15,139
-Armenia,26,2,28
-Aruba,20,0,20
-Australia,130,25,155
-Austria,109,19,128
-Azerbaijan,50,1,51
-Bahamas,23,0,23
-Bahrain,167,4,171
-Bangladesh,100,4,104
-Barbados,32,2,34
-Belarus,9,3,12
-Belgium,107,8,115
-Belize,2,0,2
-Benin,1,0,1
-Bermuda,6,0,6
-Bolivia,0,1,1
-Bosnia and Herzegovina,2,2,4
-Botswana,2,0,2
-Brazil,179,8,187
-Brunei,22,1,23
-Bulgaria,29,2,31
-Cambodia,19,0,19
-Cameroon,4,0,4
-Canada,438,41,479
-Cayman Islands,4,0,4
-Central African Republic,1,0,1
-Chile,131,10,141
-China,621,60,681
-Colombia,16,7,23
-Congo,6,0,6
-Costa Rica,38,2,40
-Ivory Coast,10,0,10
-Croatia,4,0,4
-Cuba,1,0,1
-Curaçao,22,0,22
-Cyprus,24,1,25
-Czech Republic,137,11,148
-Democratic Republic of the Congo,8,1,9
-Denmark,163,9,172
-Dominica,1,0,1
-Dominican Republic,23,1,24
-Ecuador,4,5,9
-Egypt,51,5,56
-El Salvador,3,5,8
-Equatorial Guinea,1,1,2
-Eritrea,1,0,1
-Estonia,3,0,3
-Ethiopia,6,0,6
-Faroe Islands,3,2,5
-Fiji,2,0,2
-Finland,18,0,18
-France,580,30,610
-French Southern and Antarctic Lands,2,0,2
-Gabon,3,0,3
-Georgia,22,0,22
-Germany,468,64,532
-Ghana,12,0,12
-Greece,45,1,46
-Greenland,5,1,6
-Guadeloupe,3,0,3
-Guam,15,0,15
-Guatemala,61,3,64
-Guernsey,7,0,7
-Guinea,1,0,1
-Haiti,2,0,2
-Honduras,3,2,5
-Hong Kong,661,76,737
-Hungary,16,6,22
-Iceland,10,3,13
-India,68,5,73
-Indonesia,149,10,159
-Iran,147,1,148
-Iraq,17,1,18
-Ireland,37,4,41
-Isle of Man,4,0,4
-Israel,168,8,176
-Italy,386,24,410
-Jamaica,6,0,6
-Japan,1214,58,1272
-Jersey,8,0,8
-Jordan,71,3,74
-Kazakhstan,48,6,54
-Kenya,4,9,13
-Kuwait,200,6,206
-Kyrgyzstan,14,0,14
-Laos,16,0,16
-Latvia,8,1,9
-Lebanon,127,3,130
-Liberia,1,0,1
-Libya,18,3,21
-Liechtenstein,3,0,3
-Lithuania,13,3,16
-Luxembourg,1,3,4
-Macau,79,1,80
-Republic of North Macedonia,5,2,7
-Madagascar,12,0,12
-Malawi,3,0,3
-Malaysia,288,7,295
-Maldives,8,0,8
-Mali,2,0,2
-Martinique,1,0,1
-Mauritania,2,0,2
-Mauritius,11,0,11
-Mexico,249,20,269
-Monaco,65,0,65
-Mongolia,4,1,5
-Montenegro,10,0,10
-Morocco,59,5,64
-Mozambique,7,0,7
-Myanmar,3,1,4
-Namibia,13,1,14
-Nepal,33,6,39
-Netherlands,223,10,233
-Netherlands Antilles,11,0,11
-New Zealand,202,18,220
-Nicaragua,5,0,5
-Niger,3,0,3
-Nigeria,18,1,19
-North Korea,39,0,39
-Northern Mariana Islands,3,0,3
-Norway,245,7,252
-Oman,176,3,179
-Pakistan,107,5,112
-Panama,63,4,67
-Paraguay,8,1,9
-Peru,46,4,50
-Philippines,212,11,223
-Poland,83,3,86
-Portugal,47,6,53
-Puerto Rico,6,0,6
-Qatar,296,20,316
-Moldova,11,0,11
-Romania,20,1,21
-Russia,262,25,287
-Saint Barthélemy,19,1,20
-Saint Kitts and Nevis,1,0,1
-Saint Lucia,2,0,2
-San Marino,56,0,56
-Saudi Arabia,139,6,145
-Senegal,33,4,37
-Serbia,14,5,19
-Singapore,427,11,438
-Sint Maarten,1,0,1
-Slovakia,21,3,24
-Slovenia,1,0,1
-South Africa,186,16,202
-South Korea,466,9,475
-Spain,181,35,216
-Sri Lanka,6,3,9
-Sudan,1,0,1
-Suriname,8,0,8
-Sweden,69,8,77
-Switzerland,480,101,581
-Syria,4,0,4
-Taiwan,386,11,397
-Tajikistan,3,1,4
-Tanzania,2,0,2
-Thailand,202,9,211
-Togo,2,0,2
-Tokelau,2,0,2
-Trinidad and Tobago,31,1,32
-Tunisia,22,2,24
-Turkey,292,21,313
-Turkmenistan,7,3,10
-Uganda,7,0,7
-Ukraine,119,10,129
-United Arab Emirates,364,24,388
-United Kingdom,371,31,402
-United States,2575,395,2970
-Unknown,135,6,141
-Uruguay,5,4,9
-Uzbekistan,28,3,31
-Vatican City,1,0,1
-Venezuela,10,0,10
-Vietnam,89,2,91
-United States Virgin Islands,4,0,4
-Zambia,1,0,1
-Zimbabwe,3,0,3
+Country,Detrimental Trade Species,Beneficial Trade Species,Import,Beneficial - Detrimental Trade Species
+Afghanistan,1,0,1,1
+Albania,12,0,12,12
+Algeria,15,1,16,14
+Andorra,6,2,8,4
+Angola,19,0,19,19
+Argentina,124,15,139,109
+Armenia,26,2,28,24
+Aruba,20,0,20,20
+Australia,130,25,155,105
+Austria,109,19,128,90
+Azerbaijan,50,1,51,49
+Bahamas,23,0,23,23
+Bahrain,167,4,171,163
+Bangladesh,100,4,104,96
+Barbados,32,2,34,30
+Belarus,9,3,12,6
+Belgium,107,8,115,99
+Belize,2,0,2,2
+Benin,1,0,1,1
+Bermuda,6,0,6,6
+Bolivia,0,1,1,-1
+Bosnia and Herzegovina,2,2,4,0
+Botswana,2,0,2,2
+Brazil,179,8,187,171
+Brunei,22,1,23,21
+Bulgaria,29,2,31,27
+Cambodia,19,0,19,19
+Cameroon,4,0,4,4
+Canada,438,41,479,397
+Cayman Islands,4,0,4,4
+Central African Republic,1,0,1,1
+Chile,131,10,141,121
+China,621,60,681,561
+Colombia,16,7,23,9
+Congo,6,0,6,6
+Costa Rica,38,2,40,36
+Ivory Coast,10,0,10,10
+Croatia,4,0,4,4
+Cuba,1,0,1,1
+Curaçao,22,0,22,22
+Cyprus,24,1,25,23
+Czech Republic,137,11,148,126
+Democratic Republic of the Congo,8,1,9,7
+Denmark,163,9,172,154
+Dominica,1,0,1,1
+Dominican Republic,23,1,24,22
+Ecuador,4,5,9,-1
+Egypt,51,5,56,46
+El Salvador,3,5,8,-2
+Equatorial Guinea,1,1,2,0
+Eritrea,1,0,1,1
+Estonia,3,0,3,3
+Ethiopia,6,0,6,6
+Faroe Islands,3,2,5,1
+Fiji,2,0,2,2
+Finland,18,0,18,18
+France,580,30,610,550
+French Southern and Antarctic Lands,2,0,2,2
+Gabon,3,0,3,3
+Georgia,22,0,22,22
+Germany,468,64,532,404
+Ghana,12,0,12,12
+Greece,45,1,46,44
+Greenland,5,1,6,4
+Guadeloupe,3,0,3,3
+Guam,15,0,15,15
+Guatemala,61,3,64,58
+Guernsey,7,0,7,7
+Guinea,1,0,1,1
+Haiti,2,0,2,2
+Honduras,3,2,5,1
+Hong Kong,661,76,737,585
+Hungary,16,6,22,10
+Iceland,10,3,13,7
+India,68,5,73,63
+Indonesia,149,10,159,139
+Iran,147,1,148,146
+Iraq,17,1,18,16
+Ireland,37,4,41,33
+Isle of Man,4,0,4,4
+Israel,168,8,176,160
+Italy,386,24,410,362
+Jamaica,6,0,6,6
+Japan,1214,58,1272,1156
+Jersey,8,0,8,8
+Jordan,71,3,74,68
+Kazakhstan,48,6,54,42
+Kenya,4,9,13,-5
+Kuwait,200,6,206,194
+Kyrgyzstan,14,0,14,14
+Laos,16,0,16,16
+Latvia,8,1,9,7
+Lebanon,127,3,130,124
+Liberia,1,0,1,1
+Libya,18,3,21,15
+Liechtenstein,3,0,3,3
+Lithuania,13,3,16,10
+Luxembourg,1,3,4,-2
+Macau,79,1,80,78
+Republic of North Macedonia,5,2,7,3
+Madagascar,12,0,12,12
+Malawi,3,0,3,3
+Malaysia,288,7,295,281
+Maldives,8,0,8,8
+Mali,2,0,2,2
+Martinique,1,0,1,1
+Mauritania,2,0,2,2
+Mauritius,11,0,11,11
+Mexico,249,20,269,229
+Monaco,65,0,65,65
+Mongolia,4,1,5,3
+Montenegro,10,0,10,10
+Morocco,59,5,64,54
+Mozambique,7,0,7,7
+Myanmar,3,1,4,2
+Namibia,13,1,14,12
+Nepal,33,6,39,27
+Netherlands,223,10,233,213
+Netherlands Antilles,11,0,11,11
+New Zealand,202,18,220,184
+Nicaragua,5,0,5,5
+Niger,3,0,3,3
+Nigeria,18,1,19,17
+North Korea,39,0,39,39
+Northern Mariana Islands,3,0,3,3
+Norway,245,7,252,238
+Oman,176,3,179,173
+Pakistan,107,5,112,102
+Panama,63,4,67,59
+Paraguay,8,1,9,7
+Peru,46,4,50,42
+Philippines,212,11,223,201
+Poland,83,3,86,80
+Portugal,47,6,53,41
+Puerto Rico,6,0,6,6
+Qatar,296,20,316,276
+Moldova,11,0,11,11
+Romania,20,1,21,19
+Russia,262,25,287,237
+Saint Barthélemy,19,1,20,18
+Saint Kitts and Nevis,1,0,1,1
+Saint Lucia,2,0,2,2
+San Marino,56,0,56,56
+Saudi Arabia,139,6,145,133
+Senegal,33,4,37,29
+Serbia,14,5,19,9
+Singapore,427,11,438,416
+Sint Maarten,1,0,1,1
+Slovakia,21,3,24,18
+Slovenia,1,0,1,1
+South Africa,186,16,202,170
+South Korea,466,9,475,457
+Spain,181,35,216,146
+Sri Lanka,6,3,9,3
+Sudan,1,0,1,1
+Suriname,8,0,8,8
+Sweden,69,8,77,61
+Switzerland,480,101,581,379
+Syria,4,0,4,4
+Taiwan,386,11,397,375
+Tajikistan,3,1,4,2
+Tanzania,2,0,2,2
+Thailand,202,9,211,193
+Togo,2,0,2,2
+Tokelau,2,0,2,2
+Trinidad and Tobago,31,1,32,30
+Tunisia,22,2,24,20
+Turkey,292,21,313,271
+Turkmenistan,7,3,10,4
+Uganda,7,0,7,7
+Ukraine,119,10,129,109
+United Arab Emirates,364,24,388,340
+United Kingdom,371,31,402,340
+United States,2575,395,2970,2180
+Unknown,135,6,141,129
+Uruguay,5,4,9,1
+Uzbekistan,28,3,31,25
+Vatican City,1,0,1,1
+Venezuela,10,0,10,10
+Vietnam,89,2,91,87
+United States Virgin Islands,4,0,4,4
+Zambia,1,0,1,1
+Zimbabwe,3,0,3,3
